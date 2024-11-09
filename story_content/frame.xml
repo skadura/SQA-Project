@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Professional Etiquette and Workplace Culture" />
+              <option name="title_text" value="Workplace Culture and Etiquette: Part I" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -33,9 +33,9 @@
               <listitem name="transcript" value="false" group="sidebar" />
             </listitems>
           </optionlist>
-          <option name="time_enabled" value="false">
+          <option name="time_enabled" value="true">
             <options>
-              <option name="time_format" value="" />
+              <option name="time_format" value="none" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1553,17 +1553,33 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6Hluf0nwUOH" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6Hluf0nwUOH" displaytext="Workplace Culture and Etiquette - Job Skills" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6Hluf0nwUOH.5oMLVU0iavb" displaytext="Professional Etiquette and Workplace Culture" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.5oMLVU0iavb" displaytext="Workplace Culture and Etiquette: Part I" expand="false" type="slide" />
             <slidelink slideid="_player.6Hluf0nwUOH.6DuVG1NJjYb" displaytext="Course Objectives" expand="false" type="slide" />
-            <slidelink slideid="_player.6Hluf0nwUOH.5pPYizwxMEr" displaytext="Punctuality" expand="false" type="slide" />
-            <slidelink slideid="_player.6Hluf0nwUOH.65iKWP9NUa3" displaytext="Punctuality" expand="false" type="slide" />
-            <slidelink slideid="_player.6Hluf0nwUOH.6mU0WAmkc9k" displaytext="Attire" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.5pPYizwxMEr" displaytext="Punctuality (being on time)" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.65iKWP9NUa3" displaytext="How can I be punctual?" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.6mU0WAmkc9k" displaytext="Attire (clothing)" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.5xg55lzfUqn" displaytext="Attire (clothing) II" expand="false" type="slide" />
             <slidelink slideid="_player.6Hluf0nwUOH.5tyIoWWsOy1" displaytext="Business Casual" expand="false" type="slide" />
             <slidelink slideid="_player.6Hluf0nwUOH.6j4mXGOFckh" displaytext="Business Formal" expand="false" type="slide" />
             <slidelink slideid="_player.6Hluf0nwUOH.6aQRUPGMKWl" displaytext="Casual" expand="false" type="slide" />
             <slidelink slideid="_player.6Hluf0nwUOH.6ERO20hpTjq" displaytext="Body Language" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.6ev3pjIZWkI" displaytext="Key aspects of positive body language" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.5xGMVszrRAs" displaytext="Actions that show respect and engagement" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.5pkZXNXPLnW" displaytext="Common body language to avoid" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.5yOxGbcm226" displaytext="Question #1" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.5atI5OfepQc" displaytext="Question #2" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.5uzvvUnMa6x" displaytext="Question #3" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.6E19CT0tYty" displaytext="Question #4" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.5flL5pFwRMd" displaytext="Question #5" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.6RiriCYgaQe" displaytext="Question #6" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.6cjERhe9Oo8" displaytext="Question #7" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.6BaLUCAICKE" displaytext="Question #8" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.6oXX0WXHZSX" displaytext="Question #9" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.6ggnQpqhcu0" displaytext="Question #10" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.6YGuwWrjyW2" displaytext="Wor" expand="false" type="slide" />
+            <slidelink slideid="_player.6Hluf0nwUOH.6KBQ6Ki12CB" displaytext="THIS IS THE END OF PART I" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
